@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/multireads.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gtf_tracking.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/graph_optimize.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gff_utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GHash.hh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sampling.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GBase.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/abundances.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/negative_binomial_distribution.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GArgs.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/abundances.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/jensen_shannon.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rounding.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gdna.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/replicates.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/codons.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/genes.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GFastaIndex.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/filters.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GFaSeqGet.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cuffnorm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cufflinks.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scaffolds.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/clustering.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/filters.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/dist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/lf_vari.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/vari.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/frend.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/wdiag.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/nbhd.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/family.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/lffuns.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/adap.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/math.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/locfit.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/pout.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/local.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/readfile.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/lf_dercor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/dens_haz.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/ev_kdtre.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/m_max.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/lfwin.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/m_eigen.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/minmax.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/lfcons.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/lf_fitfun.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/arith.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/cmd.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/scb_cons.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/scb.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/c_args.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/linalg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/lfstruc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/random.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/strings.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/lf_robust.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/pcomp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/vari.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/preplot.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/ev_trian.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/density.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/ev_interp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/help.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/ar_funs.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/simul.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/makecmd.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/dens_odi.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/dens_int.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/weight.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/m_chol.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/imatlb.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/startlf.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/design.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/lfd.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/c_plot.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/band.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/mutil.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/m_jacob.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/ev_atree.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/lfstr.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/solve.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/ev_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/locfit/fitted.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GBase.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/progressbar.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scaffold_graph.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/biascorrection.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tokenize.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gff.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tracking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gtf_tracking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/replicates.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assemble.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cuffdiff.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/hits.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scaffold_graph.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GFaSeqGet.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/transitive_closure.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/hits.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gdna.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tokenize.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/clustering.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/matching_merge.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GFastaIndex.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/genes.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/fib_heap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bucket_heap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/maps.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bipartite_matching.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/math.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/concepts/graph_components.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/concepts/matrix_maps.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/concepts/maps.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/concepts/path.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/concepts/graph.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/concepts/heap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/concepts/bpugraph.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/concepts/ugraph.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/list_graph.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/error.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/graph_adaptor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/dfs.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bfs.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/vector_map.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/traits.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/base_extender.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/path_dump.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/debug_map.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/map_extender.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/graph_adaptor_extender.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/array_map.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/variant.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/default_map.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/alteration_notifier.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/invalid.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/graph_extender.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bits/utility.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/bin_heap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/smart_graph.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/tolerance.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/concept_check.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/graph_utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lemon/topology.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/transitive_reduction.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/graph_optimize.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GList.hh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gff.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/jensen_shannon.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/differential.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bundles.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GVec.hh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/common.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sampling.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/multireads.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/codons.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/update_check.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GStr.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tracking.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bundles.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cuffquant.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/biascorrection.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/differential.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/scaffolds.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GStr.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assemble.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/matching_merge.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GArgs.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Eigen/Dense" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
